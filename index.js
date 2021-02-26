@@ -13,13 +13,11 @@ function sumar(a,b)
         return 2;
     }
     console.log('mensaje 1');
-
-
 }
 
-function auth()
+function comparar()
 {
-    console.log('auth...')
 
-    return 3;
 }
+
+this.comparar();
