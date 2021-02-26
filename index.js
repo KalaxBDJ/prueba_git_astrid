@@ -21,3 +21,8 @@ function comparar()
 }
 
 this.comparar();
+
+function tomar()
+{
+    return true;
+}
