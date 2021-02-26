@@ -26,3 +26,10 @@ function tomar()
 {
     return true;
 }
+
+function tomar()
+
+{
+    console.log("hola mundo");
+    return true;
+}
