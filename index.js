@@ -12,5 +12,5 @@ function sumar(a,b)
     {
         return 2;
     }
-        console.log('mensaje 1');
+    console.log('mensaje 1');
 }
