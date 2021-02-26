@@ -27,6 +27,11 @@ function tomar()
     return true;
 }
 
+function comer()
+{
+    return false;
+}
+
 function tomar()
 {
     console.log("hola mundo");
