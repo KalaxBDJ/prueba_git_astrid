@@ -8,5 +8,18 @@ function sumar(a,b)
 {
     console.log(a + b);
 
-        console.log('mensaje 1');
+    function bdd()
+    {
+        return 2;
+    }
+    console.log('mensaje 1');
+
+
+}
+
+function auth()
+{
+    console.log('auth...')
+
+    return 3;
 }
