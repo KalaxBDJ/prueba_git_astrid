@@ -14,3 +14,10 @@ function sumar(a,b)
     }
     console.log('mensaje 1');
 }
+
+function comparar()
+{
+
+}
+
+this.comparar();
