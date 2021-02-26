@@ -1,6 +1,6 @@
 var text = 'hola mundo';
 
-console.log(text);
+console.log('Merge from back');
 
 function sumar(a,b)
 {
